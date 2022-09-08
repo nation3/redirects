@@ -4,7 +4,7 @@ module.exports = {
     return [
       {
         source: '/discord',
-        destination: 'https://stackoverflow.com/posts/66662033',
+        destination: 'https://discord.gg/a4jsHKwrAa',
         permanent: false,
         basePath: false,
       },
