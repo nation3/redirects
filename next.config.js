@@ -10,7 +10,7 @@ module.exports = {
       },
       {
         source: '/discord',
-        destination: 'https://discord.gg/a4jsHKwrAa',
+        destination: 'https://discord.com/servers/nation3-690584551239581708',
         permanent: false,
         basePath: false,
       },
